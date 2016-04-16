@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## 山根 丈亮
-Josuke Yamane
-
+## 山根 丈亮 (Josuke Yamane)
 豊田工業大学 知能数理研究室 M1
 
 ### 研究内容
