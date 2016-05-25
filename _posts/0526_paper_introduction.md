@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relation such as Hypernymy: Identifying and ExploitingHearst Patterns in Distributional Vectors for LexicalEntailment
+title: Relation such as Hypernymy：Identifying and ExploitingHearst Patterns in Distributional Vectors for LexicalEntailment
 ---
 
 修士輪読で紹介した論文とスライドです．
