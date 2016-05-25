@@ -3,11 +3,7 @@ layout: post
 title: Relation such as Hypernymy：Identifying and ExploitingHearst Patterns in Distributional Vectors for LexicalEntailment
 ---
 
-修士輪読で紹介した論文とスライドです．
-
-# Relation such as Hypernymy: Identifying and ExploitingHearst Patterns in Distributional Vectors for LexicalEntailment
-
-研究室の修士輪読で発表したスライドをのせておきます
+修士輪読で紹介した際のスライドです．
 
 https://speakerdeck.com/s1r0mqme/relation-such-as-hypernymy-identifying-and-exploitinghearst-patterns-in-distributional-vectors-for-lexicalentailment
 
