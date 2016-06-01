@@ -5,13 +5,11 @@ title: 【修士輪読】Relation such as Hypernymy：Identifying and Exploiting
 
 修士輪読で紹介した際のスライドです．
 
-[https://speakerdeck.com/s1r0mqme/relation-such-as-hypernymy-identifying-and-exploitinghearst-patterns-in-distributional-vectors-for-lexicalentailment](https://speakerdeck.com/s1r0mqme/relation-such-as-hypernymy-identifying-and-exploitinghearst-patterns-in-distributional-vectors-for-lexicalentailment)
+[https://speakerdeck.com/s1r0mqme/relation-such-as-hypernymy-identifying-and-exploiting-hearst-patterns-in-distributional-vectors-for-lexicalentailment](https://speakerdeck.com/s1r0mqme/relation-such-as-hypernymy-identifying-and-exploiting-hearst-patterns-in-distributional-vectors-for-lexicalentailment)
 
 ## 論文情報
 
-- Stephen Roller, Katrin Erk. **Relation such as Hypernymy:Identifying and Exploiting Hearst Patterns inDistributional Vectors for LexicalEntailment** . [arXiv:1605.05433](https://arxiv.org/abs/1605.05433). 2016
-
-- ACL2016 (?)
+Stephen Roller, Katrin Erk. **Relation such as Hypernymy:Identifying and Exploiting Hearst Patterns inDistributional Vectors for LexicalEntailment** . [arXiv](https://arxiv.org/abs/1605.05433). 2016
 
 ## Keywords
 
