@@ -9,7 +9,7 @@ title: 【修士輪読】Relation such as Hypernymy：Identifying and Exploiting
 
 ## 論文情報
 
-Stephen Roller, Katrin Erk. **Relation such as Hypernymy:Identifying and Exploiting Hearst Patterns inDistributional Vectors for LexicalEntailment** . [arXiv](https://arxiv.org/abs/1605.05433). 2016
+Stephen Roller, Katrin Erk. **Relation such as Hypernymy:Identifying and Exploiting Hearst Patterns inDistributional Vectors for LexicalEntailment** . 2016 [[arXiv]](https://arxiv.org/abs/1605.05433).
 
 ## Keywords
 
