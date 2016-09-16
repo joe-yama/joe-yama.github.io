@@ -3,7 +3,6 @@ layout: post
 title: kerasとpyenvとvirtualenv
 ---
 
-# keras 導入方法
 deep learningライブラリのkerasをpython仮想環境とともに導入する方法。
 基本的に書いてあることは参考サイトと同じですが、一部補足してあります。
 環境構築に手こずったので、メモっておきます。
