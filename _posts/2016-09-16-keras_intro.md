@@ -46,7 +46,7 @@ find / -name "*virtualenvwrapper.sh"
 
 以下を~/.bashrcに追記します．
 
-``` sh:~/.bashrc
+``` 
 source [さっき見つけたvirtualenvwrapper.shへのパス]
 export WORKON_HOME=~/.virtualenvs
 ```
