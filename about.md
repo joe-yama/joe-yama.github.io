@@ -22,15 +22,15 @@ Student (M1)
 ---
 
 #### Conference Papers (Reviewed)
-* Josuke Yamane, Tomoya Takatani, Hitoshi Yamada, Makoto Miwa and Yutaka Sasaki. [**Distributional Hypernym Generation by Jointly Learning Clusters and Projections**](https://aclweb.org/anthology/C/C16/C16-1176.pdf). In the Proceedings of the 26th International Conference on Computational Linguistics (COLING 2016). Osaka, Japan, December, 2016.  
-Acceptance rate: 32.4% (oral acceptance: 12.3%)
+* _Josuke Yamane_, Tomoya Takatani, Hitoshi Yamada, Makoto Miwa and Yutaka Sasaki. [**Distributional Hypernym Generation by Jointly Learning Clusters and Projections**](https://aclweb.org/anthology/C/C16/C16-1176.pdf). In the Proceedings of the 26th International Conference on Computational Linguistics (COLING 2016). Osaka, Japan, December, 2016.  
+**Acceptance rate: 32.4% (oral acceptance: 12.3%)**
 
 #### Regional Papers (Non-reviwed)
-* 山根丈亮, 高谷智哉, 山田整, 三輪誠, 佐々木裕. [上位語・下位語の射影関係とそのクラスタの同時学習](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B3-4.pdf). 第22回言語処理学会年次大会. 仙台, 2016. (**若手奨励賞受賞**)
+* _山根丈亮_, 高谷智哉, 山田整, 三輪誠, 佐々木裕. [**上位語・下位語の射影関係とそのクラスタの同時学習**](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B3-4.pdf). 第22回言語処理学会年次大会. 仙台, 2016. (**若手奨励賞受賞**)
 
 ## Contact Information
 ---
 
 Toyota Technological Institute  
 2-12-1 Hisakata, Tempaku-ku, Nagoya, 468-8511, Japan  
-sd16432 / toyota-ti.ac.jp
+sd16432 (at) toyota-ti.ac.jp
