@@ -94,3 +94,7 @@ for it in range(1000):
     summary_writer.add_summary(summary_str, it)
     summary_writer.flush()
 ```
+
+## 結果
+
+![結果](https://github.com/joe-yama/joe-yama.github.io/blob/master/images/result_of_tensorboard.png?raw=true)
