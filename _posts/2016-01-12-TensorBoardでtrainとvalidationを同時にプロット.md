@@ -9,13 +9,6 @@ TensorBoardではスカラーサマリーで学習曲線を書くことができ
 ちなみにtensorflowのバージョンは0.12です．これ以前のバージョンとはコードの互換性がないので注意してください．  
 説明のためにMNISTのデータを使っています．validationデータがなかったので，やむおえずtestデータでプロットしています．
 
-## import tensorflow
-
-
-```python
-import tensorflow as tf
-from tensorflow.examples.tutorials.mnist import input_data
-```
 
 ## import mnist dataset
 
@@ -46,22 +39,16 @@ b = tf.Variable(tf.zeros([10]))
 y_pred = tf.nn.softmax(tf.matmul(x,w) + b)
 ```
 
-## define loss
-
 
 ```python
 cross_entropy = -tf.reduce_sum(y_true*tf.log(y_pred+1e-8))
 ```
-
-## define accuracy
 
 
 ```python
 correct_prediction = tf.equal(tf.argmax(y_pred,1), tf.argmax(y_true,1))
 accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 ```
-
-## define training operation
 
 
 ```python
