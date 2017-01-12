@@ -9,6 +9,8 @@ TensorBoardではスカラーサマリーで学習曲線を書くことができ
 ちなみにtensorflowのバージョンは0.12です．これ以前のバージョンとはコードの互換性がないので注意してください．  
 説明のためにMNISTのデータを使っています．validationデータがなかったので，やむおえずtestデータでプロットしています．
 
+## import tensorflow
+
 
 ```python
 import tensorflow as tf
@@ -21,12 +23,6 @@ from tensorflow.examples.tutorials.mnist import input_data
 ```python
 mnist = input_data.read_data_sets('MNIST_data', one_hot=True)
 ```
-
-    Extracting MNIST_data/train-images-idx3-ubyte.gz
-    Extracting MNIST_data/train-labels-idx1-ubyte.gz
-    Extracting MNIST_data/t10k-images-idx3-ubyte.gz
-    Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
-
 
 ## build graph
 
