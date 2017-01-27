@@ -32,7 +32,7 @@ Student (M1)
 ## Contact Information
 ---
 
-**Josuke Yamane**
+**Josuke Yamane**  
 Toyota Technological Institute  
 2-12-1 Hisakata, Tempaku-ku, Nagoya, 468-8511, Japan  
 sd16432 (at) toyota-ti.ac.jp
