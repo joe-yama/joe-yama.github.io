@@ -33,6 +33,6 @@ Student (M1)
 ---
 
 **Josuke Yamane**  
-Toyota Technological Institute  
+[Computational Intelligence Laboratory](http://www.toyota-ti.ac.jp/Lab/Denshi/COIN/), [Toyota Technological Institute](http://www.toyota-ti.ac.jp/english/)  
 2-12-1 Hisakata, Tempaku-ku, Nagoya, 468-8511, Japan  
-sd16432 (at) toyota-ti.ac.jp
+Email: sd16432 (at) toyota-ti.ac.jp
