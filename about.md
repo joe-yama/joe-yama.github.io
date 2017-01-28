@@ -7,16 +7,15 @@ permalink: /about/
 Student (M1)  
 [Computational Intelligence Laboratory](http://www.toyota-ti.ac.jp/Lab/Denshi/COIN/)  
 [Toyota Technological Institute](http://www.toyota-ti.ac.jp/english/), Japan
-  
-
 
 ## Research Interests
 ---
+
+* Artificial Intelligence
 * Natural Language Processing
-  * Hypernym Detection / Generation
-  * Distributional Representation of words
 * Machine Learning
-  
+  * Generative Adversarial Nets
+  * Reinforcement Learning
 
 ## Publications
 ---
