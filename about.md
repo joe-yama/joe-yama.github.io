@@ -14,8 +14,6 @@ Student (M1)
 * Artificial Intelligence
 * Natural Language Processing
 * Machine Learning
-  * Generative Adversarial Nets
-  * Reinforcement Learning
 
 ## Publications
 ---
@@ -33,6 +31,7 @@ Student (M1)
 ---
 
 **Josuke Yamane** / **山根丈亮**  
+master's cource student (M1)  
 [Computational Intelligence Laboratory](http://www.toyota-ti.ac.jp/Lab/Denshi/COIN/), [Toyota Technological Institute](http://www.toyota-ti.ac.jp/english/)  
 2-12-1 Hisakata, Tempaku-ku, Nagoya, 468-8511, Japan  
 Email: sd16432 (at) toyota-ti.ac.jp
