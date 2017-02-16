@@ -5,7 +5,7 @@ title: Tensorflow Foldのインストール
 
 Tensorflow Foldのubuntuでのインストールメモです．
 
-# Tensorflow Foldとは？
+## Tensorflow Foldとは？
 
 素のTensorflowはの計算グラフはdefine and runなので，入力によって計算グラフが動的に変化するネットワーク （Tree-LSTMなど） を構築することができません．
 define and runは多くの伝統的な機械学習ライブラリ （e.g. Theano, Caffe） などで採用されています．
@@ -14,7 +14,7 @@ define and runは多くの伝統的な機械学習ライブラリ （e.g. Theano
 define by runはChainerやDyNetで採用されています．
 詳しくは[論文](https://openreview.net/pdf?id=ryrGawqex)で．
 
-# インストール
+## インストール
 
 python3.3+ GPU版で，CUDAなどはインストールされている前提です．  
 Anacondaで環境構築します．
