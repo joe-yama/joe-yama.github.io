@@ -4,7 +4,7 @@ title: Josuke Yamane / 山根 丈亮
 permalink: /about/
 ---
 
-Student (M1)  
+Student (M2)  
 [Computational Intelligence Laboratory](http://www.toyota-ti.ac.jp/Lab/Denshi/COIN/)  
 [Toyota Technological Institute](http://www.toyota-ti.ac.jp/english/), Japan
 
@@ -25,13 +25,13 @@ Student (M1)
 #### Regional Papers (Non-reviwed)
 * **山根丈亮**, 高谷智哉, 山田整, 三輪誠, 佐々木裕. **上位語・下位語の射影関係とそのクラスタの同時学習**. 第22回言語処理学会年次大会. 仙台, 2016. ([**若手奨励賞受賞**](http://www.anlp.jp/award/nenji.html#y2016)) \[[paper](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/B3-4.pdf)\]
 
-* 山口修平, **山根丈亮**, 三輪誠, 佐々木裕. **ラティスを学習するニューラル単語分割**. 第23回言語処理学会年次大会. 筑波, 2017. (to appear)
+* 山口修平, **山根丈亮**, 三輪誠, 佐々木裕. **ラティスを学習するニューラル単語分割**. 第23回言語処理学会年次大会. 筑波, 2017.
 
 ## Contact Information
 ---
 
 **Josuke Yamane** / **山根丈亮**  
-master's cource student (M1)  
+master's cource student (M2)  
 [Computational Intelligence Laboratory](http://www.toyota-ti.ac.jp/Lab/Denshi/COIN/), [Toyota Technological Institute](http://www.toyota-ti.ac.jp/english/)  
 2-12-1 Hisakata, Tempaku-ku, Nagoya, 468-8511, Japan  
 Email: sd16432 (at) toyota-ti.ac.jp
