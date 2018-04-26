@@ -4,9 +4,7 @@ title: Josuke Yamane / 山根 丈亮
 permalink: /about/
 ---
 
-Student (M2)  
-[Computational Intelligence Laboratory](http://www.toyota-ti.ac.jp/Lab/Denshi/COIN/)  
-[Toyota Technological Institute](http://www.toyota-ti.ac.jp/english/), Japan
+Engineer / Researcher
 
 ## Research Interests
 ---
@@ -33,7 +31,4 @@ Student (M2)
 ---
 
 **Josuke Yamane** / **山根丈亮**  
-master's cource student (M2)  
-[Computational Intelligence Laboratory](http://www.toyota-ti.ac.jp/Lab/Denshi/COIN/), [Toyota Technological Institute](http://www.toyota-ti.ac.jp/english/)  
-2-12-1 Hisakata, Tempaku-ku, Nagoya, 468-8511, Japan  
-Email: sd16432 (at) toyota-ti.ac.jp
+Email: s1r0mqme (at) gmail (dot) com
