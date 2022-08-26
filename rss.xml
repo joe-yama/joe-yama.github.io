@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[自分のための備忘録]]></description><link>https://joe-yama.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Aug 2022 14:10:32 GMT</lastBuildDate><item><title><![CDATA[自作キーボードChoco60 rev.2に最適なセッティング]]></title><description><![CDATA[Choco60 rev.2 というキーボードを購入して約半年間経ち、Choco60に最適なキーマップや物理的なカスタマイズができたので、紹介したいと思います。 ビルドログは他の方がたくさん書いているので、この記事ではChoco6…]]></description><link>https://joe-yama.github.io/introduce-my-keyboard/</link><guid isPermaLink="false">https://joe-yama.github.io/introduce-my-keyboard/</guid><pubDate>Thu, 18 Aug 2022 21:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Choco60 rev.2 というキーボードを購入して約半年間経ち、Choco60に最適なキーマップや物理的なカスタマイズができたので、紹介したいと思います。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[自分のための備忘録]]></description><link>https://joe-yama.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Aug 2022 14:12:28 GMT</lastBuildDate><item><title><![CDATA[自作キーボードChoco60 rev.2に最適なセッティング]]></title><description><![CDATA[Choco60 rev.2 というキーボードを購入して約半年間経ち、Choco60に最適なキーマップや物理的なカスタマイズができたので、紹介したいと思います。 ビルドログは他の方がたくさん書いているので、この記事ではChoco6…]]></description><link>https://joe-yama.github.io/introduce-my-keyboard/</link><guid isPermaLink="false">https://joe-yama.github.io/introduce-my-keyboard/</guid><pubDate>Thu, 18 Aug 2022 21:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Choco60 rev.2 というキーボードを購入して約半年間経ち、Choco60に最適なキーマップや物理的なカスタマイズができたので、紹介したいと思います。&lt;/p&gt;
 &lt;p&gt;ビルドログは他の方がたくさん書いているので、この記事ではChoco60に最適な周辺部品の話をメインに記載しようと思います。&lt;/p&gt;
 &lt;h2 id=&quot;choco60-rev2というキーボード&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#choco60-rev2%E3%81%A8%E3%81%84%E3%81%86%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&quot; aria-label=&quot;choco60 rev2というキーボード permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Choco60 rev.2　というキーボード&lt;/h2&gt;
 &lt;p&gt;Choco60は、HHKBと同じ配列の分割キーボードです。rev.2という名の通り、現在販売されているのは２代目だそうです。&lt;/p&gt;
@@ -16,12 +16,12 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Choco60 rev.2&quot;
         title=&quot;Choco60 rev.2&quot;
-        src=&quot;/blog/static/30f87d1de3adb535a759f9e1681a9cdd/828fb/choco60rev2officialimage.jpg&quot;
-        srcset=&quot;/blog/static/30f87d1de3adb535a759f9e1681a9cdd/ff44c/choco60rev2officialimage.jpg 158w,
-/blog/static/30f87d1de3adb535a759f9e1681a9cdd/a6688/choco60rev2officialimage.jpg 315w,
-/blog/static/30f87d1de3adb535a759f9e1681a9cdd/828fb/choco60rev2officialimage.jpg 630w,
-/blog/static/30f87d1de3adb535a759f9e1681a9cdd/0ede0/choco60rev2officialimage.jpg 945w,
-/blog/static/30f87d1de3adb535a759f9e1681a9cdd/e5166/choco60rev2officialimage.jpg 1200w&quot;
+        src=&quot;/static/30f87d1de3adb535a759f9e1681a9cdd/828fb/choco60rev2officialimage.jpg&quot;
+        srcset=&quot;/static/30f87d1de3adb535a759f9e1681a9cdd/ff44c/choco60rev2officialimage.jpg 158w,
+/static/30f87d1de3adb535a759f9e1681a9cdd/a6688/choco60rev2officialimage.jpg 315w,
+/static/30f87d1de3adb535a759f9e1681a9cdd/828fb/choco60rev2officialimage.jpg 630w,
+/static/30f87d1de3adb535a759f9e1681a9cdd/0ede0/choco60rev2officialimage.jpg 945w,
+/static/30f87d1de3adb535a759f9e1681a9cdd/e5166/choco60rev2officialimage.jpg 1200w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -303,7 +303,7 @@ Googleフォトは15GBまで無料で、それ以上になるとGoogle Oneとい
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/3cff90fcebffda774f566d9e3433468d/35d5c/load_default_keymap.png&quot;
+    href=&quot;/static/3cff90fcebffda774f566d9e3433468d/35d5c/load_default_keymap.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -316,13 +316,13 @@ Googleフォトは15GBまで無料で、それ以上になるとGoogle Oneとい
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;choco60のデフォルトキーマップを読み込む&quot;
         title=&quot;choco60のデフォルトキーマップを読み込む&quot;
-        src=&quot;/blog/static/3cff90fcebffda774f566d9e3433468d/f058b/load_default_keymap.png&quot;
-        srcset=&quot;/blog/static/3cff90fcebffda774f566d9e3433468d/c26ae/load_default_keymap.png 158w,
-/blog/static/3cff90fcebffda774f566d9e3433468d/6bdcf/load_default_keymap.png 315w,
-/blog/static/3cff90fcebffda774f566d9e3433468d/f058b/load_default_keymap.png 630w,
-/blog/static/3cff90fcebffda774f566d9e3433468d/40601/load_default_keymap.png 945w,
-/blog/static/3cff90fcebffda774f566d9e3433468d/78612/load_default_keymap.png 1260w,
-/blog/static/3cff90fcebffda774f566d9e3433468d/35d5c/load_default_keymap.png 2760w&quot;
+        src=&quot;/static/3cff90fcebffda774f566d9e3433468d/f058b/load_default_keymap.png&quot;
+        srcset=&quot;/static/3cff90fcebffda774f566d9e3433468d/c26ae/load_default_keymap.png 158w,
+/static/3cff90fcebffda774f566d9e3433468d/6bdcf/load_default_keymap.png 315w,
+/static/3cff90fcebffda774f566d9e3433468d/f058b/load_default_keymap.png 630w,
+/static/3cff90fcebffda774f566d9e3433468d/40601/load_default_keymap.png 945w,
+/static/3cff90fcebffda774f566d9e3433468d/78612/load_default_keymap.png 1260w,
+/static/3cff90fcebffda774f566d9e3433468d/35d5c/load_default_keymap.png 2760w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -345,7 +345,7 @@ Googleフォトは15GBまで無料で、それ以上になるとGoogle Oneとい
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/c88c2471f5f04dc7abca548034ed37d4/92bb4/QMKToolBox.png&quot;
+    href=&quot;/static/c88c2471f5f04dc7abca548034ed37d4/92bb4/QMKToolBox.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -358,13 +358,13 @@ Googleフォトは15GBまで無料で、それ以上になるとGoogle Oneとい
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;QMK Toolboxでキーボードにファームウェアを書き込む&quot;
         title=&quot;QMK Toolboxでキーボードにファームウェアを書き込む&quot;
-        src=&quot;/blog/static/c88c2471f5f04dc7abca548034ed37d4/f058b/QMKToolBox.png&quot;
-        srcset=&quot;/blog/static/c88c2471f5f04dc7abca548034ed37d4/c26ae/QMKToolBox.png 158w,
-/blog/static/c88c2471f5f04dc7abca548034ed37d4/6bdcf/QMKToolBox.png 315w,
-/blog/static/c88c2471f5f04dc7abca548034ed37d4/f058b/QMKToolBox.png 630w,
-/blog/static/c88c2471f5f04dc7abca548034ed37d4/40601/QMKToolBox.png 945w,
-/blog/static/c88c2471f5f04dc7abca548034ed37d4/78612/QMKToolBox.png 1260w,
-/blog/static/c88c2471f5f04dc7abca548034ed37d4/92bb4/QMKToolBox.png 1824w&quot;
+        src=&quot;/static/c88c2471f5f04dc7abca548034ed37d4/f058b/QMKToolBox.png&quot;
+        srcset=&quot;/static/c88c2471f5f04dc7abca548034ed37d4/c26ae/QMKToolBox.png 158w,
+/static/c88c2471f5f04dc7abca548034ed37d4/6bdcf/QMKToolBox.png 315w,
+/static/c88c2471f5f04dc7abca548034ed37d4/f058b/QMKToolBox.png 630w,
+/static/c88c2471f5f04dc7abca548034ed37d4/40601/QMKToolBox.png 945w,
+/static/c88c2471f5f04dc7abca548034ed37d4/78612/QMKToolBox.png 1260w,
+/static/c88c2471f5f04dc7abca548034ed37d4/92bb4/QMKToolBox.png 1824w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -382,7 +382,7 @@ Googleフォトは15GBまで無料で、それ以上になるとGoogle Oneとい
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/ad8aa65b463f746dbedb06dc1782da19/81315/my_keymap.png&quot;
+    href=&quot;/static/ad8aa65b463f746dbedb06dc1782da19/81315/my_keymap.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -395,13 +395,13 @@ Googleフォトは15GBまで無料で、それ以上になるとGoogle Oneとい
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;現状のキーマップ&quot;
         title=&quot;現状のキーマップ&quot;
-        src=&quot;/blog/static/ad8aa65b463f746dbedb06dc1782da19/f058b/my_keymap.png&quot;
-        srcset=&quot;/blog/static/ad8aa65b463f746dbedb06dc1782da19/c26ae/my_keymap.png 158w,
-/blog/static/ad8aa65b463f746dbedb06dc1782da19/6bdcf/my_keymap.png 315w,
-/blog/static/ad8aa65b463f746dbedb06dc1782da19/f058b/my_keymap.png 630w,
-/blog/static/ad8aa65b463f746dbedb06dc1782da19/40601/my_keymap.png 945w,
-/blog/static/ad8aa65b463f746dbedb06dc1782da19/78612/my_keymap.png 1260w,
-/blog/static/ad8aa65b463f746dbedb06dc1782da19/81315/my_keymap.png 1656w&quot;
+        src=&quot;/static/ad8aa65b463f746dbedb06dc1782da19/f058b/my_keymap.png&quot;
+        srcset=&quot;/static/ad8aa65b463f746dbedb06dc1782da19/c26ae/my_keymap.png 158w,
+/static/ad8aa65b463f746dbedb06dc1782da19/6bdcf/my_keymap.png 315w,
+/static/ad8aa65b463f746dbedb06dc1782da19/f058b/my_keymap.png 630w,
+/static/ad8aa65b463f746dbedb06dc1782da19/40601/my_keymap.png 945w,
+/static/ad8aa65b463f746dbedb06dc1782da19/78612/my_keymap.png 1260w,
+/static/ad8aa65b463f746dbedb06dc1782da19/81315/my_keymap.png 1656w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -446,7 +446,7 @@ Googleフォトは15GBまで無料で、それ以上になるとGoogle Oneとい
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/03e1f/architecture.png&quot;
+    href=&quot;/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/03e1f/architecture.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -459,10 +459,10 @@ Googleフォトは15GBまで無料で、それ以上になるとGoogle Oneとい
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;my aws account architectute&quot;
         title=&quot;my aws account architectute&quot;
-        src=&quot;/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/03e1f/architecture.png&quot;
-        srcset=&quot;/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/c26ae/architecture.png 158w,
-/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/6bdcf/architecture.png 315w,
-/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/03e1f/architecture.png 489w&quot;
+        src=&quot;/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/03e1f/architecture.png&quot;
+        srcset=&quot;/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/c26ae/architecture.png 158w,
+/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/6bdcf/architecture.png 315w,
+/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/03e1f/architecture.png 489w&quot;
         sizes=&quot;(max-width: 489px) 100vw, 489px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
