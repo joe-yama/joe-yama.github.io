@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[自分のための備忘録]]></description><link>https://joe-yama.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Aug 2022 13:53:57 GMT</lastBuildDate><item><title><![CDATA[自作キーボードChoco60 rev.2に最適なセッティング]]></title><description><![CDATA[Choco60 rev.2 というキーボードを購入して約半年間経ち、Choco60に最適なキーマップや物理的なカスタマイズができたので、紹介したいと思います。 ビルドログは他の方がたくさん書いているので、この記事ではChoco6…]]></description><link>https://joe-yama.github.io/blog/introduce-my-keyboard/</link><guid isPermaLink="false">https://joe-yama.github.io/blog/introduce-my-keyboard/</guid><pubDate>Thu, 18 Aug 2022 21:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Choco60 rev.2 というキーボードを購入して約半年間経ち、Choco60に最適なキーマップや物理的なカスタマイズができたので、紹介したいと思います。&lt;/p&gt;
+&lt;p&gt;ビルドログは他の方がたくさん書いているので、この記事ではChoco60に最適な周辺部品の話をメインに記載しようと思います。&lt;/p&gt;
+&lt;h2 id=&quot;choco60-rev2というキーボード&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#choco60-rev2%E3%81%A8%E3%81%84%E3%81%86%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&quot; aria-label=&quot;choco60 rev2というキーボード permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Choco60 rev.2　というキーボード&lt;/h2&gt;
+&lt;p&gt;Choco60は、HHKBと同じ配列の分割キーボードです。rev.2という名の通り、現在販売されているのは２代目だそうです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Choco60 はプログラマーに人気のキー配列を分割した 60% キーボードです。ふだんとまったく同じ使い心地で、分割キーボードならではの自然な姿勢でタイピングすることができます。
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGknwNFFn//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIREhD/2gAIAQEAAQUC0Wq0SSKXP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABUQAQEAAAAAAAAAAAAAAAAAABEg/9oACAEBAAY/Aiv/xAAbEAEBAQACAwAAAAAAAAAAAAABABEhMVFhkf/aAAgBAQABPyEGqS7Wn2w+pnKGz4iAy//aAAwDAQACAAMAAAAQgN//xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QEX//xAAWEQEBAQAAAAAAAAAAAAAAAAABEFH/2gAIAQIBAT8QR2f/xAAaEAEAAwEBAQAAAAAAAAAAAAABABExYSFx/9oACAEBAAE/EGEC5bU2ALTqLLp4WOCSNSeD5ZMwqf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Choco60 rev.2&quot;
+        title=&quot;Choco60 rev.2&quot;
+        src=&quot;/blog/static/30f87d1de3adb535a759f9e1681a9cdd/828fb/choco60rev2officialimage.jpg&quot;
+        srcset=&quot;/blog/static/30f87d1de3adb535a759f9e1681a9cdd/ff44c/choco60rev2officialimage.jpg 158w,
+/blog/static/30f87d1de3adb535a759f9e1681a9cdd/a6688/choco60rev2officialimage.jpg 315w,
+/blog/static/30f87d1de3adb535a759f9e1681a9cdd/828fb/choco60rev2officialimage.jpg 630w,
+/blog/static/30f87d1de3adb535a759f9e1681a9cdd/0ede0/choco60rev2officialimage.jpg 945w,
+/blog/static/30f87d1de3adb535a759f9e1681a9cdd/e5166/choco60rev2officialimage.jpg 1200w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;
+引用：&lt;a href=&quot;https://keys.recompile.net/projects/choco60-rev2/&quot;&gt;Choco60 rev.2 – recompile keys&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;HHKBの配列はとても気に入っており、この配列の分割キーボードを探していました。同様のコンセプトには&lt;a href=&quot;https://salicylic-acid3.hatenablog.com/entry/7skb-introduction&quot;&gt;7sKB&lt;/a&gt;というキーボードもありましたが、当時は在庫切れだったので、Choco60 rev.2を購入しました。&lt;/p&gt;
+&lt;h2 id=&quot;最終的にたどり着いたカスタマイズ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E6%9C%80%E7%B5%82%E7%9A%84%E3%81%AB%E3%81%9F%E3%81%A9%E3%82%8A%E7%9D%80%E3%81%84%E3%81%9F%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA&quot; aria-label=&quot;最終的にたどり着いたカスタマイズ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;最終的にたどり着いたカスタマイズ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;キースイッチ
+&lt;ul&gt;
+&lt;li&gt;Zilent V2 (67g)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;キーキャップ
+&lt;ul&gt;
+&lt;li&gt;NP PBT Blank KEYCAPS SET 124 Keys (White, Off-White)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;スタビライザーまわり
+&lt;ul&gt;
+&lt;li&gt;Mekanisk Ultramarine Stabilisers v2&lt;/li&gt;
+&lt;li&gt;KBDfans Stabilizers foam sticker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ルブ
+&lt;ul&gt;
+&lt;li&gt;Krytox GPL 105&lt;/li&gt;
+&lt;li&gt;Tribosys 3203&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;USBケーブル
+&lt;ul&gt;
+&lt;li&gt;MOMOKA Silver Bullet Keyboard Cable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;いまこうやって見返してみると、これ全部遊舎工房で揃いますね。海外サイトで購入するとけっこうな送料がかかったりするので、ありがたいです。&lt;/p&gt;
+&lt;h2 id=&quot;キースイッチ---zilent-v2-67g&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%AD%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81---zilent-v2-67g&quot; aria-label=&quot;キースイッチ   zilent v2 67g permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;キースイッチ - Zilent V2 (67g)&lt;/h2&gt;
+&lt;p&gt;自作キーボードは初めてだったので、電器屋に行って試し打ちをしました。その結果、自分はタクタイルスイッチ（茶軸）が好みだということがわかったので、タクタイルだけに絞って探しました。&lt;/p&gt;
+&lt;p&gt;タクタイルに絞ったとはいえ、無数に種類があり非常に迷いましたが、最終的には&lt;a href=&quot;https://blog.yushakobo.jp/entry/2021/02/28/193030&quot;&gt;遊舎工房の人気スイッチランキング&lt;/a&gt;の上位にあった&lt;a href=&quot;https://shop.yushakobo.jp/products/a02zi&quot;&gt;Zilent V2&lt;/a&gt;にしました。このランキング記事は非常に良くまとまっているので、キースイッチに迷っている人は必読です。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;HHKBを利用されている方に特に人気のある印象。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;という記載が決め手でしたね。&lt;/p&gt;
+&lt;p&gt;67gなので押しごたえがあって私はかなり満足しています。もちろんHHKBよりも打鍵圧は重いです。&lt;/p&gt;
+&lt;p&gt;お値段は５個で880円。1個あたり176円。Choco60は62個キーがあるので、単純計算で10,000円を超えます。。。さすが高級キースイッチ。。。&lt;/p&gt;
+&lt;h2 id=&quot;キーキャップ---np-pbt-blank-keycaps&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97---np-pbt-blank-keycaps&quot; aria-label=&quot;キーキャップ   np pbt blank keycaps permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;キーキャップ - NP PBT Blank KEYCAPS&lt;/h2&gt;
+&lt;p&gt;キーキャップは３種類ほど試して、やっと満足のいくものに出会えました。&lt;/p&gt;
+&lt;p&gt;Choco60はHHKB配列かつ分割キーボードなので、標準キーセットでは不足するキーが出てしまいます。個人的にいろいろ調べ、いくつかのキーキャップを試した結果、ブランクキーキャップならこの&lt;a href=&quot;https://shop.yushakobo.jp/collections/keycaps/products/np-pbt-blank-keycaps-set-124-keys&quot;&gt;NP PBT Blank KEYCAPS&lt;/a&gt;一択という結論に至りました。&lt;/p&gt;
+&lt;p&gt;NPプロファイルの柔らかい見た目がChoco60のデザインとマッチし、とても気に入っています。
+ブランクキーキャップは質感によっては一気に安っぽく見えてしまいますが、このキーキャップはマット地で高級感があります。&lt;/p&gt;
+&lt;p&gt;私はブランクキーキャップだと数字のミスタイプが多いので、数字の５〜９のキーだけ若干異なる色（メインのキー：ホワイト、数字の５〜９：オフホワイト）にしています。&lt;/p&gt;
+&lt;p&gt;お値段は4,400円。キーキャップの中では安い方だと思います。&lt;/p&gt;
+&lt;h2 id=&quot;スタビライザーまわり&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B9%E3%82%BF%E3%83%93%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC%E3%81%BE%E3%82%8F%E3%82%8A&quot; aria-label=&quot;スタビライザーまわり permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;スタビライザーまわり&lt;/h2&gt;
+&lt;p&gt;初めての自作キーボードだったので、効果が分からないながらもスタビライザーを別売りのものに換装し、フォームステッカーまで貼りました。&lt;/p&gt;
+&lt;p&gt;換装したスタビライザーは&lt;a href=&quot;https://shop.yushakobo.jp/products/2537?_pos=3&amp;#x26;_sid=964b0ab62&amp;#x26;_ss=r&amp;#x26;variant=40309106573473&quot;&gt;Mekanisk Ultramarine Stabilisers v2&lt;/a&gt;です。お値段は2,970円。Choco60に付属しているものと比較すると明らかに良い作りをしています。剛性も高そう。&lt;/p&gt;
+&lt;p&gt;スタビライザーとPCBの間に貼るフォームステッカーは、&lt;a href=&quot;https://shop.yushakobo.jp/products/kbdfans-stabilizers-foam-sticker-20pcs?_pos=1&amp;#x26;_sid=970917b39&amp;#x26;_ss=r&quot;&gt;KBDfans Stabilizers foam sticker&lt;/a&gt;。お値段は495円。&lt;/p&gt;
+&lt;p&gt;正直この2つに関しては、もとのスタビライザーと比較していないので効果の程は未知です。&lt;/p&gt;
+&lt;h2 id=&quot;ルブ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%AB%E3%83%96&quot; aria-label=&quot;ルブ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ルブ&lt;/h2&gt;
+&lt;p&gt;これも色々調べて見様見真似でやってみました。めちゃくちゃ大変でした。
+ルブステーション・スイッチオープナー（&lt;a href=&quot;https://shop.yushakobo.jp/products/3278&quot;&gt;Joininkeys Switch Opener&lt;/a&gt;）・ステムホルダーやブラシ（&lt;a href=&quot;https://talpkeyboard.net/items/6024e5aa6728be21fc69fb51&quot;&gt;KBDfans Lube Tools Collection&lt;/a&gt;）も一緒に買いましたが、買ってよかったです。&lt;/p&gt;
+&lt;h2 id=&quot;usbケーブル---momoka-silver-bullet-keyboard-cable&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#usb%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB---momoka-silver-bullet-keyboard-cable&quot; aria-label=&quot;usbケーブル   momoka silver bullet keyboard cable permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;USBケーブル - MOMOKA Silver Bullet Keyboard Cable&lt;/h2&gt;
+&lt;p&gt;これはしばらくして後から買いました。Choco60に限らず自作キーボードのUSB接続部分は、長く使用しているともげるそうです。&lt;/p&gt;
+&lt;p&gt;そこで、なるべくケーブルの抜き差しを行わなくて良いようにこのケーブルを購入しました。お値段は1,980円。
+この手のケーブルはケーブルが極太な物が多いですが、この商品はケーブルが細く、メタリックでシンプルなデザインでかっこいいです。&lt;/p&gt;
+&lt;p&gt;遊舎工房さん取り扱ってくれていてありがとうございます。&lt;/p&gt;
+&lt;h2 id=&quot;まとめ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%BE%E3%81%A8%E3%82%81&quot; aria-label=&quot;まとめ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;まとめ&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;商品&lt;/th&gt;
+&lt;th&gt;説明&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;金額&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/choco60-rev-2&quot;&gt;Choco60 rev.2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;本体&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;16,500円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/a02zi&quot;&gt;Zilent V2 スイッチ（5個） - 67g&lt;/a&gt;×14&lt;/td&gt;
+&lt;td&gt;キースイッチ&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;10,780円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/trrs_cable&quot;&gt;TRRSケーブル 1m - 白&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;左右のキーボードをつなぐケーブル&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;330円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/3278&quot;&gt;Joininkeys Switch Opener&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;スイッチを開けるときに使用&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1,650円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/kbdfans-lube-tools-collection&quot;&gt;KBDfans Lube Tools Collection&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;ルブに便利な道具たち&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1,100円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/2537&quot;&gt;Mekanisk Ultramarine Stabilisers v2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;スタビライザー&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;2,970円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/kbdfans-stabilizers-foam-sticker-20pcs&quot;&gt;KBDfans Stabilizers foam sticker (20Pcs)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;スタビライザーと基盤の間に貼るクッション材&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;495円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/lubricants&quot;&gt;潤滑剤 - Krytox GPL 105 - 5ml&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;ルブに使う&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1,650円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/lubricants&quot;&gt;潤滑剤 - Tribosys 3203 - 3g&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;ルブに使う&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1,100円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/np-pbt-blank-keycaps-set-124-keys&quot;&gt;NP PBT Blank KEYCAPS SET 124 Keys - White&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;キーキャップ&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;4,400円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/momoka-silver-bullet-keyboard-cable&quot;&gt;MOMOKA Silver Bullet Keyboard Cable - USB-A Plug Module (60cm)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;USBケーブル&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1,980円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://shop.yushakobo.jp/products/momoka-silver-bullet-keyboard-cable&quot;&gt;MOMOKA Silver Bullet Keyboard Cable - Type-C Connector Module (20cm)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;USBケーブル&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1,430円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;合計&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;44,385円&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[Googleフォトの半分以下のコストで動画を保管・共有する]]></title><description><![CDATA[友人の結婚式で動画を撮りまくっていたら、合計10GBを超えてしまっていました。（最近カメラを買ったので、、、）
+Googleフォトに保存して共有すればいいや、と楽観視していましたが問題発生。 Googleフォトに無料で保存できるのは1アカウント15GB…]]></description><link>https://joe-yama.github.io/blog/sharing-wedding-movie-via-s3/</link><guid isPermaLink="false">https://joe-yama.github.io/blog/sharing-wedding-movie-via-s3/</guid><pubDate>Wed, 27 Apr 2022 14:00:00 GMT</pubDate><content:encoded>&lt;p&gt;友人の結婚式で動画を撮りまくっていたら、合計10GBを超えてしまっていました。（最近カメラを買ったので、、、）
+Googleフォトに保存して共有すればいいや、と楽観視していましたが問題発生。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.google.com/photos/answer/6220791?hl=ja&quot;&gt;Googleフォトに無料で保存できるのは1アカウント15GBまで&lt;/a&gt;というのを忘れていました。
+すでに使用している容量と合計すると15GBを超えてしますので、別途Google Oneでデータ容量を購入する必要がありそうです。&lt;/p&gt;
+&lt;p&gt;そこで、プライベートで撮りためた動画・写真を低コストで保管・共有するためにS3が活用できないかを考えてみましたので、ここに記録しておきます。&lt;/p&gt;
+&lt;h2 id=&quot;s3はプライベート動画の保存先として適しているのか&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#s3%E3%81%AF%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E5%8B%95%E7%94%BB%E3%81%AE%E4%BF%9D%E5%AD%98%E5%85%88%E3%81%A8%E3%81%97%E3%81%A6%E9%81%A9%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B&quot; aria-label=&quot;s3はプライベート動画の保存先として適しているのか permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;S3はプライベート動画の保存先として適しているのか？&lt;/h2&gt;
+&lt;p&gt;プライベート動画を保存するために満たしたい条件はざっくり以下の3つでした。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;データが失われない&lt;/li&gt;
+&lt;li&gt;低コスト&lt;/li&gt;
+&lt;li&gt;共有が容易&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;S3はこれらの条件を満たすことができるのかを書いていきます。&lt;/p&gt;
+&lt;h3 id=&quot;1-データが失われない&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84&quot; aria-label=&quot;1 データが失われない permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. データが失われない&lt;/h3&gt;
+&lt;p&gt;ご存知の通りS3は複数のアベイラビリティーゾーンにわたってオブジェクトの耐久性が99.999999999%を達成するように設計されています。
+自宅PCや自宅のNASで保管する場合は物理的にデバイスが壊れてしまうと、いままでの思い出がすべて消えてしまいます。自前でRAIDを組むなどしておけば、ある程度は安心ですが、地震が発生してRAIDごとすべて破壊されてしまう、といったことは防げません。&lt;/p&gt;
+&lt;h3 id=&quot;2-低コスト&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88&quot; aria-label=&quot;2 低コスト permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. 低コスト&lt;/h3&gt;
+&lt;p&gt;動画の保存場所なのでそこまでのレイテンシや可用性は求めませんが、コストはなるべく低く抑えたいです。S3のストレージ料金を抑えるためには、&lt;a href=&quot;https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/intelligent-tiering-overview.html&quot;&gt;S3 Intelligent-Tiering&lt;/a&gt;を活用するとよいようです。&lt;/p&gt;
+&lt;p&gt;Intelligent-Tieringはオブジェクトの使用頻度に応じて自動で最適なストレージクラスに移動してくれるサービスですが、取り出し料金が無料というメリットもあります。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;S3 Intelligent-Tiering には取り出し料金は発生しません。低頻度アクセス階層またはアーカイブインスタントアクセス階層にあるオブジェクトに後でアクセスすると、そのオブジェクトは高頻度アクセス階層に自動的に戻されます。&lt;br&gt;
+引用元：&lt;a href=&quot;https://aws.amazon.com/jp/s3/storage-classes/&quot;&gt;Amazon S3 ストレージクラス&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;参考googleフォトとのコスト比較&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%8F%82%E8%80%83google%E3%83%95%E3%82%A9%E3%83%88%E3%81%A8%E3%81%AE%E3%82%B3%E3%82%B9%E3%83%88%E6%AF%94%E8%BC%83&quot; aria-label=&quot;参考googleフォトとのコスト比較 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;参考：Googleフォトとのコスト比較&lt;/h4&gt;
+&lt;p&gt;ストレージ料金だけでの比較になりますが、Googleフォトとのコスト比較をしてみます。
+Googleフォトは15GBまで無料で、それ以上になるとGoogle Oneというストレージサービスを契約する必要があります。これは100GBのベーシックというプランで月額250円です。&lt;/p&gt;
+&lt;p&gt;一方でS3のストレージ料金を試算してみます。定常状態では、以下のようなTeiringになっていると仮定します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;合計100GB&lt;/li&gt;
+&lt;li&gt;10%が高頻度アクセスティア&lt;/li&gt;
+&lt;li&gt;10%が低頻度アクセスティア&lt;/li&gt;
+&lt;li&gt;30%がアーカイブインスタントアクセスティア&lt;/li&gt;
+&lt;li&gt;50%がアーカイブアクセスティア&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;ティア&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;容量&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;ストレージ料金/月&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;料金&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;高頻度アクセス&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;10GB&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;0.025USD/GB&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;0.25USD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;低頻度アクセス&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;10GB&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;0.0138USD/GB&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;0.138USD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;アーカイブインスタントアクセス&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;30GB&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;0.005USD/GB&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;0.15USD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;アーカイブアクセス&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;50GB&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;0.0045USD/GB&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;0.225USD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;合計&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;100GB&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;-&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;0.763USD&lt;/strong&gt;&lt;br&gt;(約90円)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;以上より、100GBあたりの料金で比較すると、&lt;strong&gt;Googleフォトは月額250円、S3は月額90円となり、S3のほうが2.5倍ほど安価&lt;/strong&gt;になることがわかりました。&lt;/p&gt;
+&lt;p&gt;ただし、S3では、ストレージ料金に加えてデータ転送量（100GB/月までは無料）や、モニタリング料金（無視できるほど少額）や、リクエスト回数に応じた料金（無視できるほど少額）が発生するので注意が必要です。とはいえ、通常は無視できるような金額と思います。&lt;/p&gt;
+&lt;h3 id=&quot;3-共有が容易&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-%E5%85%B1%E6%9C%89%E3%81%8C%E5%AE%B9%E6%98%93&quot; aria-label=&quot;3 共有が容易 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. 共有が容易&lt;/h3&gt;
+&lt;p&gt;耐久性とかコストとかの面でS3が優れていることはまあ当然といえば当然です。
+果たして疑問なのが、簡単に友人に動画を共有できるかという点でしたが、署名付きURLを発行すれば、簡単かつ安全に動画を友人に共有できることがわかりました。&lt;/p&gt;
+&lt;p&gt;もちろんURLにアクセスするだけなので、非AWSユーザーにも簡単に共有できます。&lt;/p&gt;
+&lt;h3 id=&quot;署名付きurlを利用した動画の共有方法&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E7%BD%B2%E5%90%8D%E4%BB%98%E3%81%8Durl%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E5%8B%95%E7%94%BB%E3%81%AE%E5%85%B1%E6%9C%89%E6%96%B9%E6%B3%95&quot; aria-label=&quot;署名付きurlを利用した動画の共有方法 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;署名付きURLを利用した動画の共有方法&lt;/h3&gt;
+&lt;p&gt;プライベートの動画ですからパブリックに公開して共有、なんてしたくありません。そこで&lt;a href=&quot;https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html&quot;&gt;S3の署名付きURL&lt;/a&gt;を利用します。&lt;/p&gt;
+&lt;p&gt;適当にバケットを作成して、動画をアップロードします。&lt;/p&gt;
+&lt;p&gt;面倒なのですが、その性質上オブジェクトごとに署名付きURLを発行する必要があるので、指定のPrefixにあるオブジェクトすべての事前署名付きURLを発行し、テキストに保存します。&lt;/p&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;bash&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;aws s3 &lt;span class=&quot;token function&quot;&gt;ls&lt;/span&gt; --recursive s3://my-s3-bucket/2022-04-23-結婚式/ &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;awk&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;{print $NF}&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;xargs&lt;/span&gt; -I &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; aws s3 presign s3://my-s3-bucket/&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; --expires-in &lt;span class=&quot;token number&quot;&gt;604800&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; presign-urls.txt&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;あとは&lt;code class=&quot;language-text&quot;&gt;presign-urls.txt&lt;/code&gt;を友人に共有すればOKです。&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;--expires-in&lt;/code&gt;で署名が失効するまでの時間（秒単位）を指定することができます。最大は604800（1週間）のようです。&lt;strong&gt;（←ハマリポイントあり。追記参照）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;追記署名付き-url-が指定した有効期限より前に失効してしまう&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%BF%BD%E8%A8%98%E7%BD%B2%E5%90%8D%E4%BB%98%E3%81%8D-url-%E3%81%8C%E6%8C%87%E5%AE%9A%E3%81%97%E3%81%9F%E6%9C%89%E5%8A%B9%E6%9C%9F%E9%99%90%E3%82%88%E3%82%8A%E5%89%8D%E3%81%AB%E5%A4%B1%E5%8A%B9%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86&quot; aria-label=&quot;追記署名付き url が指定した有効期限より前に失効してしまう permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;追記：署名付き URL が指定した有効期限より前に失効してしまう&lt;/h3&gt;
+&lt;p&gt;友人に共有したURLからダウンロードしてもらいたいので、URLの有効期限（&lt;code class=&quot;language-text&quot;&gt;expires-in&lt;/code&gt;）は最大値の１週間を設定していました。
+ですが、次の日URLが無効になっていると友人連絡がありました。&lt;/p&gt;
+&lt;p&gt;URL先ではこんな表示が。&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;xml&quot;&gt;&lt;pre class=&quot;language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Code&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;AccessDenied&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Code&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Message&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Request has expired&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Message&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;1週間の有効期限を設定したのに翌日に期限切れになってしまってます。&lt;/p&gt;
+&lt;h4 id=&quot;原因&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%8E%9F%E5%9B%A0&quot; aria-label=&quot;原因 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;原因&lt;/h4&gt;
+&lt;p&gt;AWSのナレッジセンターに以下のような記事を見つけました。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一時トークンを使用して署名済み URL を作成した場合は、トークンが失効すると URL も失効します。それより後の有効期限を指定して URL を作成した場合でも、URL は失効します。&lt;br&gt;
+&lt;a href=&quot;https://aws.amazon.com/jp/premiumsupport/knowledge-center/presigned-url-s3-bucket-expiration/&quot;&gt;Amazon S3 バケットの署名付き URL が、指定した有効期限より前に失効するのはなぜですか?&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;署名付きURLを発行したのはIAM Roleだったので、AssumeRoleしたときの一時トークンの有効期限が過ぎてしまうと、事前署名付きURLも執行してしまうようです。&lt;/p&gt;
+&lt;p&gt;AssumeRoleの一時トークンの有効期限はというと、デフォルトでは1時間（最大でも12時間）とのこと。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;パラメータを渡さない場合、一時的な認証情報の有効期限は 1 時間です。&lt;br&gt;
+&lt;a href=&quot;https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/id_credentials_temp_request.html&quot;&gt;AssumeRole—クロスアカウントの委任とカスタム ID ブローカーを経由したフェデレーション&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;したがって、IAM RoleをPrincipalが事前署名する場合、12時間以上の有効期限は実質設定不可能なのです。&lt;/p&gt;
+&lt;h4 id=&quot;対処法&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%AF%BE%E5%87%A6%E6%B3%95&quot; aria-label=&quot;対処法 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;対処法&lt;/h4&gt;
+&lt;p&gt;これもナレッジセンターに書かれていました。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;最長 7 日間有効の署名付き URL を作成するには、SDK に対する IAM ユーザー認証情報 (アクセスキーとシークレットアクセスキー) を指定します。その後、AWS 署名バージョン 4 を使用して署名付き URL を生成します。&lt;br&gt;
+&lt;a href=&quot;https://aws.amazon.com/jp/premiumsupport/knowledge-center/presigned-url-s3-bucket-expiration/&quot;&gt;Amazon S3 バケットの署名付き URL が、指定した有効期限より前に失効するのはなぜですか?&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最長 7 日間有効の署名付き URL を作成するには、IAMユーザーが署名する必要があるようです。&lt;/p&gt;
+&lt;p&gt;事前署名付きURL発行の仕組みを考慮すれば確かにそうなるのですが、ハマリポイントなので注意です。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[自作キーボードのキーマップを変更する]]></title><description><![CDATA[3ヶ月に1回ぐらい使用しているキーボードのキーマップを変更したくなるのですが、毎回やり方を忘れてしまうのでメモしておきます。 キーボードに書き込むファームウェアファイルを生成 QMK Configuratorから行います。ブラウザ上でGUI…]]></description><link>https://joe-yama.github.io/blog/remap-handmade-keyboard/</link><guid isPermaLink="false">https://joe-yama.github.io/blog/remap-handmade-keyboard/</guid><pubDate>Mon, 25 Apr 2022 14:00:00 GMT</pubDate><content:encoded>&lt;p&gt;3ヶ月に1回ぐらい使用しているキーボードのキーマップを変更したくなるのですが、毎回やり方を忘れてしまうのでメモしておきます。&lt;/p&gt;
+&lt;h2 id=&quot;キーボードに書き込むファームウェアファイルを生成&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%82%80%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%94%9F%E6%88%90&quot; aria-label=&quot;キーボードに書き込むファームウェアファイルを生成 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;キーボードに書き込むファームウェアファイルを生成&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://config.qmk.fm/&quot;&gt;QMK Configurator&lt;/a&gt;から行います。ブラウザ上でGUI操作でキーマップをレイアウトすることができるので便利です。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;QMK Configurator は、QMKファームウェアの .hex や .bin ファイルを生成するオンライングラフィカルユーザーインターフェイスです。
+引用：&lt;a href=&quot;https://docs.qmk.fm/#/ja/newbs_building_firmware_configurator&quot;&gt;QMK Configuratorのドキュメンテーション&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;KEYBOARD&lt;/code&gt;というドロップダウンリストからデフォルトキーマップを選択します。私は、recompile_keys製の&lt;a href=&quot;https://keys.recompile.net/projects/choco60-rev2/&quot;&gt;choco60/rev2&lt;/a&gt;というキーボードを使用していますので、それを選んだ状態で&lt;code class=&quot;language-text&quot;&gt;LOAD DEFAULT&lt;/code&gt;を押します。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/3cff90fcebffda774f566d9e3433468d/35d5c/load_default_keymap.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.69620253164557%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACeklEQVQoz4WSS09TYRCG+yNEI6BoNNhyaUFu4Qf4E4wbIa0BAaUrXVCQS2m9VAhEYYGKSYMhLkzcqSAiJMRLbGnpBeQWS7BAa6FpEQo9p+1jzgFJwIVv8iTvN5nMzJcZRbuplYcdD+jtfURnpwWT2UhzS5NMY2MDdyxGWjrNtHfdx2gxYZBizU20tjVjNhsxmdow323ncU83BoMRBUBCTLC1HSMuCNKTZDJFisOScmQSSRkpR9KP3z4c606coSkiW6DY3d0lEAjwfW6Bn/4VIpEIsVgMKS4IAoIoIogCkWiEjY0NwuGwjOQlAqEAq79WWQ2tIYg7KJaWfNTr67hx8zr1+lr0+jpqaquoraumulqHTleB7lolWl0FWu3Vf9DpKtFpK6ipqcLn86HweNyo1Sry8rLJzc1GpTqPUnmO7AtnZU5nnSQ94xjpGWlkZB4/ROYpiROkZ6aRdSYdt9uFYnrGS3G5hqKyfIrKNWiKclBfVFFcqqG0rJCS0gKKS/a8piDngILCXNQalUy+WolarcTr9aAIb4Z5OvyM3nf9WEetDI4NMvBxgIlvE7imXDidDiYdk9jtNhmbzXbgx8fHGB39wNDICG+G3xPd3Py75ThsLpIUBUQxTiIhyhuUfDIhEtveIhgMEN/Z4X+SC25vR+kYsGCf/MKMx86M18HGepDZaQdetw2P24Z/0cProVcM277uNxNJJpOHSKVS+wV34qgM3QwMDRP1z+OfdxEJrbHm97Gy4Cbom2Vuxsk9yyVGx57s3WVClAscRUEqJXd7+dnO5a4+GqwvuNLVx1ubg+n5WbQ9/dx6buW2dRDr+Cfmlpf3j39voqNf/gPtiKI/utzLKAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;choco60のデフォルトキーマップを読み込む&quot;
+        title=&quot;choco60のデフォルトキーマップを読み込む&quot;
+        src=&quot;/blog/static/3cff90fcebffda774f566d9e3433468d/f058b/load_default_keymap.png&quot;
+        srcset=&quot;/blog/static/3cff90fcebffda774f566d9e3433468d/c26ae/load_default_keymap.png 158w,
+/blog/static/3cff90fcebffda774f566d9e3433468d/6bdcf/load_default_keymap.png 315w,
+/blog/static/3cff90fcebffda774f566d9e3433468d/f058b/load_default_keymap.png 630w,
+/blog/static/3cff90fcebffda774f566d9e3433468d/40601/load_default_keymap.png 945w,
+/blog/static/3cff90fcebffda774f566d9e3433468d/78612/load_default_keymap.png 1260w,
+/blog/static/3cff90fcebffda774f566d9e3433468d/35d5c/load_default_keymap.png 2760w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;画面下部に表示されているようにGUI上にデフォルトのキーマップが表示されます。このキーボードのコンセプトは「プログラマーに人気のキー配列を分割した 60% キーボード」なので、デフォルトのキーマップはHHKBと全く同じになっていますね。&lt;/p&gt;
+&lt;p&gt;私はHHKBも所持しており、気分によってこのchoco60と使い分けています。物理的なキー配置が同じなので（左右分割か否かという差異はあれど）同じキーマップにしておくと、切替の時に余計な脳のリソースを使わなくて済みます。&lt;/p&gt;
+&lt;p&gt;あとはGUIでポチポチキーマップを変更します。できたら、&lt;code class=&quot;language-text&quot;&gt;COMPILE&lt;/code&gt;を押すとジャガイモが焼かれ始めます、、、少し待つと焼き上がりますので&lt;code class=&quot;language-text&quot;&gt;FIRMWARE&lt;/code&gt;のボタンからダウンロードします。&lt;/p&gt;
+&lt;h2 id=&quot;ファームウェアをキーボードに書き込む&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%82%80&quot; aria-label=&quot;ファームウェアをキーボードに書き込む permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ファームウェアをキーボードに書き込む&lt;/h2&gt;
+&lt;p&gt;ここからは専用のソフトウェアをインストールしなければなりません。&lt;a href=&quot;https://github.com/qmk/qmk_toolbox&quot;&gt;QMK Toolbox&lt;/a&gt;というソフトウェアです。&lt;/p&gt;
+&lt;p&gt;キーボードを接続するとこのような表示が出ます。&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*** Atmel DFU device connected: ATMEL ATmega32U2 DFU (03EB:2FF0:0000)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;この表示をもとに、画面上部にMCUを選択するドロップダウンリストから&lt;code class=&quot;language-text&quot;&gt;ATmega32U2&lt;/code&gt;を選択します。この選択が間違っているとファームウェアを書き込めないので注意が必要です。&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Local File&lt;/code&gt;には、さきほど作ったファームウェアの場所を指定します。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/c88c2471f5f04dc7abca548034ed37d4/92bb4/QMKToolBox.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 85.44303797468356%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAABYlAAAWJQFJUiTwAAAD+UlEQVQ4y62TW0xbdRzHm/jmi8DS8UBvnLbQ62l7TntOW8YlQZigm0BlmcYJI25ifNDscQNMZubig5Gr0cQHsyUmxhdtptlM1IxbL0wFCdezXoCuUCiwOQwu7f98zTkVJcFH/8kn/2/yTz75ff/5/xX9b9986sFstD6VTp7ZzTxu28k8DOxkHsnsbv4e2EpvB5bm7geW52KB9ZVMIL2SCWRWNwLZtXQglViXztuy6ztnV2MpNwCF4rP+G8fm70VW5udmsRpbQ/J+EkkhiYSQlHN8KY65mTkICwI217PYTG8hncpibW0H2xvbiC0mkBBWEF9KfCsLey/3KKenF5dnZ5Yw+9tCTlhOknhsjSTiKZKIPyCryTSJJzbIspAi2Y0s+ePRHslm98j61j75c2+f7GzuPtndeoiV2Oo3svBaX59ybGJaCE8tIhSdJ5OReTEUnRfDUwvi2OSsODoxLX7304wYvBMVw2OTYmg8IobHQ2J0IixOjobEuz+M5n6J/oqp0L2CEIDy1PMvCA4HjdraGuLzecHzHLxeHizLwGq1wOmg4XI6YLfbYTKZUFFRAZ1Oh7KyMpSWluY0Gg1eO9cRvPTOpYLwZONzgtVmR01NHeF5H1jWA5eLBcd54XZzcLt5cLwXHMfB6XTCZrPBaDSivLwcGo0mZzAY0NXZFezrfbcgPH2qSWAYK+rrqwjPO2EwqGA0FpByZaUKFKWCSqWGSqWCWq2WkSZTq9U5vV6P851dwZ4rvQoF2Yfy3KstQn29Dc3NPGlq4tDY6ER1tQl+PwWTSQ2LRYOKCi20Wp1cVavV/rNLE0pCacLent7ChG2tLwk07ZLqEYbxQILzeOH314DjfGAYHmazDVarVUaqLN2nlC0WS87hcKD7jTeDw0MjB8IWweNxoaqKJz6fBxzHgGVpMIwdNG2C2UzBYFBDq9XINQ9zpPLjLJQXL7QIzc2VaGtzkdZWJ1pabHi2gUJDgwoeTgWfrwwsqzoiOxBSFIXzHV3BK5d7FAoQKM+0twu814O6uhpSW1uNEyeq/n46HGjaAek6zGa5nsxBbSmbzeac3U6j+2J3cKB/sFC5taVVkJ4Dy7KEYRhRwuv1ilV+v+jxuEW73SYaDHpRrz8KRVE5U6UJr3ddCL5/7XpB+OLpk0tmixoMa8y5XIY8TWvzlF6Z1+tL8rrykrxOV5TX6Z7JlxwrzhcXH6KkOF9UVPREeVyJl8++8nVnR6dCcfvW98dvfH4z9dGH/RgaGMZQ/4jM8IDExwUGC4z8B8ODI/hk5FN8+cVXd+Svp9OUP333x9G3oqHo9fB45GpkIvpeePwwkX8ZO0poLHJ1KvTzB7dv3WmXhdKSwv/FX5va6988oxfLAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;QMK Toolboxでキーボードにファームウェアを書き込む&quot;
+        title=&quot;QMK Toolboxでキーボードにファームウェアを書き込む&quot;
+        src=&quot;/blog/static/c88c2471f5f04dc7abca548034ed37d4/f058b/QMKToolBox.png&quot;
+        srcset=&quot;/blog/static/c88c2471f5f04dc7abca548034ed37d4/c26ae/QMKToolBox.png 158w,
+/blog/static/c88c2471f5f04dc7abca548034ed37d4/6bdcf/QMKToolBox.png 315w,
+/blog/static/c88c2471f5f04dc7abca548034ed37d4/f058b/QMKToolBox.png 630w,
+/blog/static/c88c2471f5f04dc7abca548034ed37d4/40601/QMKToolBox.png 945w,
+/blog/static/c88c2471f5f04dc7abca548034ed37d4/78612/QMKToolBox.png 1260w,
+/blog/static/c88c2471f5f04dc7abca548034ed37d4/92bb4/QMKToolBox.png 1824w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+この状態で、キーボードのPCB上に物理的に付いているリセットボタンを押すとファームウェアの書き込みが始まります。&lt;/p&gt;
+&lt;p&gt;ちなみに私の使用しているchoco60/rev2は分割キーボードなので、左右どちらもこの手順でファームウェアを書き込む必要があります。&lt;/p&gt;
+&lt;h2 id=&quot;書き込んだキーマップ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%82%93%E3%81%A0%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97&quot; aria-label=&quot;書き込んだキーマップ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;書き込んだキーマップ&lt;/h2&gt;
+&lt;p&gt;また数ヶ月経つと変わるでしょうけど、現在の私のキーマップはこのようになっています。
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/ad8aa65b463f746dbedb06dc1782da19/81315/my_keymap.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 78.48101265822784%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB7ElEQVQ4y31U7XLDIAzj/V9z3S1AAJOQjyZtvZOAtPuz3nEGY2PZUmper5f+t/Cz1nI9Hg+e/4s3OWed51lhc56azTpNE/3btukwDHwQvtz804f93BvvPYNiSpqSXDaJaCmLPp/PK1gka0qJBWNMH0AqAFgjTCwaQmQCAmHrEra5rhuDUaQnhhjZEYrzHKI6P6pBxalVwiUSehAS9n3nox1Zvwe6jnxZFp1L4dmg0hhia+ONkq2LMLm3DRR1JO920QXyxxDUAyFeP85T57nwEkEYASriDvvzPDVJJQ9zha93hAL7fmcnZVnUXExaq857rixCNECCR7G+bt88oyPYwTq1zqm1Tvdt0/v9zncMqh/HoW978BJ7WPhvt5vaYajnD//5J+/kMmSuzaMyOPHch41WIC3M97qfenyTTWMeyEkKLkhIk0PXIuYI9SNBmjSqrETHMZBAkAFQ8DnnocNMJCJvyXTZoCIkA5SpzbV3grxqhXuQCrIMKmOYQIjqaMmP4UrsOoyNkC5qktOQgliyzAdFdFlXJtevRWrbseoQBfEg2kdyCOGKgyLgo4yQH6OadV0pXKp9LpdM1m0jctxjjt0PX6FG16bLwoJgGCj5b4NA5xzZ9Kw6cgRAk3P9zH5+hsvf4xztyEdRGJ/eL14Hy+aP2qp/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;現状のキーマップ&quot;
+        title=&quot;現状のキーマップ&quot;
+        src=&quot;/blog/static/ad8aa65b463f746dbedb06dc1782da19/f058b/my_keymap.png&quot;
+        srcset=&quot;/blog/static/ad8aa65b463f746dbedb06dc1782da19/c26ae/my_keymap.png 158w,
+/blog/static/ad8aa65b463f746dbedb06dc1782da19/6bdcf/my_keymap.png 315w,
+/blog/static/ad8aa65b463f746dbedb06dc1782da19/f058b/my_keymap.png 630w,
+/blog/static/ad8aa65b463f746dbedb06dc1782da19/40601/my_keymap.png 945w,
+/blog/static/ad8aa65b463f746dbedb06dc1782da19/78612/my_keymap.png 1260w,
+/blog/static/ad8aa65b463f746dbedb06dc1782da19/81315/my_keymap.png 1656w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;先程書いたとおりchoco60の物理キー配置はHHKBと全く同じなので、私はHHKBにもこのキーマップを適用しています。&lt;/p&gt;
+&lt;p&gt;特徴は、下のとおりです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;左手の親指でEnterとBackspaceを押すことができる&lt;/li&gt;
+&lt;li&gt;Fn ー キーマップ上ではMO(1) が左手の手のひらの付け根で押せるように、左下にマッピングされている
+&lt;ul&gt;
+&lt;li&gt;これはかなり変態なFnの押し方なのでは、と思われるかもしれませんが、ホームポジションから離れることなくFnキーを押すことができる最も良い方法だと思っています。とても理にかなっているので、すべてのHHKBユーザーにおすすめしたいです。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;矢印キーをFn+h/j/k/lに割り当てており、Vimバインディングで操作することができる
+&lt;ul&gt;
+&lt;li&gt;このキーマップの真骨頂です。先述の通りFnは左手の手のひらの付け根で押し、左手でhjklを押せば矢印を操作できる&lt;/li&gt;
+&lt;li&gt;つまりホームポジションを崩すことなく、矢印操作ができる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Media系の機能は使わないのですべて取り除いている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Fnを左手の手のひらの付け根で押すとLeft CtrlやLeft Shiftが押しづらい、という唯一の欠点を克服するために、HHKBデフォルトの矢印操作もできるようにしています。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AWS CLIでクロスアカウントのスイッチロールを行う]]></title><description><![CDATA[モチベーション 私の使っているAWS環境では諸事情によりOrganizationsが使用できないので、AWSアカウント管理は以下のように行っています。 アイデンティティアカウントにのみIAM Userを作成する アイデンティティアカウントには原則IAM…]]></description><link>https://joe-yama.github.io/blog/cross-account-switch-role-with-awscli/</link><guid isPermaLink="false">https://joe-yama.github.io/blog/cross-account-switch-role-with-awscli/</guid><pubDate>Sat, 02 Apr 2022 14:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;モチベーション&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&quot; aria-label=&quot;モチベーション permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;モチベーション&lt;/h2&gt;
+&lt;p&gt;私の使っているAWS環境では諸事情によりOrganizationsが使用できないので、AWSアカウント管理は以下のように行っています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;アイデンティティアカウント&lt;/strong&gt;にのみIAM Userを作成する
+&lt;ul&gt;
+&lt;li&gt;アイデンティティアカウントには原則IAM関係のリソースしか作成しない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;アイデンティティアカウント以外のAWSアカウント（子アカウントと呼んでいます）にはIAM Userは作成しない
+&lt;ul&gt;
+&lt;li&gt;子アカウントにはIAM Roleを作成し、アイデンティティアカウントからスイッチロールして開発を行う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 489px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/03e1f/architecture.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 44.93670886075949%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAACQUlEQVQoz5WRW0sUYRjH/7Ou7qld23WVPaA7+747u3mY951xtTzM+85sadAJVygoIaEDgZd9gC6D8LKgrrzqoi8goUEHS+oiygsLTyjuXqTkBwiKmBhNkO564Ll8fs//AMrlR8pFH2Gij3BhUC5KlEuTMDGomY7eZ1/KL7xdbCiVK/eKpvOEctFFuRzQmDBKupUqMpEkXMYpE42ECQ7KRZFymSVMnCBcaJTLjrxu6QXD7gIQ/PXzB1zXBYAwgOOEiYLaM1yM9VZygZOjapvpFEq6lSgwAcIEBWHSR7kE4QJ53UJeH85cuHw9/ODhDObmX6Rqtdrkp89LN5aXv9za2/t+Znpi0jf+ftG/ciyd/ao0n3KBwGw4hXj5NCiXBU9hOMsr0HsGoDER0ZhV5gOjWdf9jedz8+l6vT61tr4xtbKyendtbb0KQDl/9WZ4JknsZ9Hs2NPmdtVFI4L9I55CDyhDnbqF1t4K2g27JdI/kk8Ydtrz+PrlK2xvb+9b9nZzcxOZVg0tiClx08lAXMxg6FwErosiE564A2CofwReSkv+RMNCoLVjNpKOrsY78Ob+tLK7u9NQvXY7Oj5xJ7q7883nRxjtCCJuOsDZK4AzhpTpKITLA8uEiRCcKj40JbGFWOBdU3JwQ4m1PU6oeJRQkTXs/Vi89Y6q+TK6eyzw7iFFY0Ip6RYIl0eAXIa8hrp1y5fjMtepW0TlkuS4DKp/yzoE0oMj/DuUC4UeBXr0nGF7pTSmTMdPmWgq6dbh9/8C/gGNsKMJpFYvdAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;my aws account architectute&quot;
+        title=&quot;my aws account architectute&quot;
+        src=&quot;/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/03e1f/architecture.png&quot;
+        srcset=&quot;/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/c26ae/architecture.png 158w,
+/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/6bdcf/architecture.png 315w,
+/blog/static/a3d83a10c1bf82aff1f3bf1e47ccbb16/03e1f/architecture.png 489w&quot;
+        sizes=&quot;(max-width: 489px) 100vw, 489px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;子アカウントで作業を行うためには毎回スイッチロールが必要になるのです。これがけっこう手間で面倒だったので対応を調べました。&lt;/p&gt;
+&lt;h2 id=&quot;スイッチロールをシームレスに行う&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%92%E3%82%B7%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%81%AB%E8%A1%8C%E3%81%86&quot; aria-label=&quot;スイッチロールをシームレスに行う permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;スイッチロールをシームレスに行う&lt;/h2&gt;
+&lt;p&gt;AWS CLIでは &lt;code class=&quot;language-text&quot;&gt;--profile&lt;/code&gt; オプションを使用することで、プロファイルを指定してコマンドを実行することができます。&lt;/p&gt;
+&lt;p&gt;これは &lt;code class=&quot;language-text&quot;&gt;.aws/credential&lt;/code&gt; に複数のアクセスキーを記載しているときに、どのアクセスキーを使用するかを選ぶためだけにあると思っていました。&lt;/p&gt;
+&lt;p&gt;以下のように、 &lt;code class=&quot;language-text&quot;&gt;.aws/config&lt;/code&gt; でうまく設定することで、 &lt;code class=&quot;language-text&quot;&gt;--profile&lt;/code&gt; オプションを指定するだけで、スイッチロールを意識することなく子アカウントでの作業ができることがわかりました。&lt;/p&gt;
+&lt;h3 id=&quot;awscredentialsにアイデンティティアカウントの認証情報を記述する&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#awscredentials%E3%81%AB%E3%82%A2%E3%82%A4%E3%83%87%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E8%AA%8D%E8%A8%BC%E6%83%85%E5%A0%B1%E3%82%92%E8%A8%98%E8%BF%B0%E3%81%99%E3%82%8B&quot; aria-label=&quot;awscredentialsにアイデンティティアカウントの認証情報を記述する permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;①&lt;code class=&quot;language-text&quot;&gt;.aws/credentials&lt;/code&gt;にアイデンティティアカウントの認証情報を記述する&lt;/h3&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;~/.aws/credential&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toml&quot;&gt;&lt;pre class=&quot;language-toml&quot;&gt;&lt;code class=&quot;language-toml&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token table class-name&quot;&gt;identity-account&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;token key property&quot;&gt;aws_access_key_id&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; &amp;lt;your access key id&gt;
+&lt;span class=&quot;token key property&quot;&gt;aws_secret_access_key&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; &amp;lt;your secret access key&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;awsconfigにスイッチロールする際の設定を記述する&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#awsconfig%E3%81%AB%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%92%E8%A8%98%E8%BF%B0%E3%81%99%E3%82%8B&quot; aria-label=&quot;awsconfigにスイッチロールする際の設定を記述する permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;②&lt;code class=&quot;language-text&quot;&gt;.aws/config&lt;/code&gt;にスイッチロールする際の設定を記述する&lt;/h3&gt;
+&lt;p&gt;アイデンティティアカウントにMFA設定がある場合は、&lt;code class=&quot;language-text&quot;&gt;mfa_serial&lt;/code&gt;（ハイライト行）にMFAデバイスのARNを記載してください。&lt;/p&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;~/.aws/config&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight has-highlighted-lines&quot; data-language=&quot;toml&quot;&gt;&lt;pre class=&quot;language-toml&quot;&gt;&lt;code class=&quot;language-toml&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;profile identity-account&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;# アイデンティティアカウントの設定&lt;/span&gt;
+&lt;span class=&quot;token key property&quot;&gt;region&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; ap-northeast&lt;span class=&quot;token number&quot;&gt;-1&lt;/span&gt;
+&lt;span class=&quot;token key property&quot;&gt;output&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; json
+
+&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;profile dev-account&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;# プロファイル名は任意&lt;/span&gt;
+&lt;span class=&quot;gatsby-highlight-code-line&quot;&gt;&lt;span class=&quot;token key property&quot;&gt;mfa_serial&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; arn:aws:iam::&lt;span class=&quot;token number&quot;&gt;123456789&lt;/span&gt;:mfa/your-mfa-device &lt;span class=&quot;token comment&quot;&gt;# 自分のMFAデバイスのARN&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token key property&quot;&gt;role_arn&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; arn:aws:iam::&lt;span class=&quot;token number&quot;&gt;987654321&lt;/span&gt;:role/dev-account-role &lt;span class=&quot;token comment&quot;&gt;# スイッチしたい子アカウントのRole&lt;/span&gt;
+&lt;span class=&quot;token key property&quot;&gt;source_profile&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; identity-account &lt;span class=&quot;token comment&quot;&gt;# ①で設定したアイデンティティアカウントのプロファイル名&lt;/span&gt;
+&lt;span class=&quot;token key property&quot;&gt;region&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; ap-northeast&lt;span class=&quot;token number&quot;&gt;-1&lt;/span&gt;
+&lt;span class=&quot;token key property&quot;&gt;output&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; json&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;これで設定は完了です。&lt;/p&gt;
+&lt;h3 id=&quot;プロファイルを指定してcliを実行する&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E6%8C%87%E5%AE%9A%E3%81%97%E3%81%A6cli%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B&quot; aria-label=&quot;プロファイルを指定してcliを実行する permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;③プロファイルを指定してCLIを実行する&lt;/h3&gt;
+&lt;p&gt;もうスイッチロールを意識せずとも、プロファイルを指定するだけで子アカウントのRoleでCLIを実行できます。&lt;/p&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;bash&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$ aws sts get-caller-identity --profile dev-account
+Enter MFA code &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; arn:aws:iam::123456789:mfa/your-mfa-device: &lt;span class=&quot;token number&quot;&gt;123456&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;UserId&quot;&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;ARXXXXXXXXXXXXXXXX:botocore-session-1111111111&quot;&lt;/span&gt;,
+    &lt;span class=&quot;token string&quot;&gt;&quot;Account&quot;&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;987654321&quot;&lt;/span&gt;,
+    &lt;span class=&quot;token string&quot;&gt;&quot;Arn&quot;&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;arn:aws:sts::987654321:assumed-role/dev-account-role/botocore-session-1111111111&quot;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;初回はMFAコードを求められますが、2回目以降はstsの有効期限が切れるまでMFAコードは聞かれなくなります。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[このブログをはじめるにあたって]]></title><description><![CDATA[いままで技術的な備忘録はEvernoteに溜め込んでいましたが、あまりにも雑すぎて読み返しても読み解けず、結局また調べる羽目に。。。のようなことが何度かあったのでこれからは…]]></description><link>https://joe-yama.github.io/blog/how-to-create-this-blog/</link><guid isPermaLink="false">https://joe-yama.github.io/blog/how-to-create-this-blog/</guid><pubDate>Fri, 01 Apr 2022 14:00:00 GMT</pubDate><content:encoded>&lt;p&gt;いままで技術的な備忘録はEvernoteに溜め込んでいましたが、あまりにも雑すぎて読み返しても読み解けず、結局また調べる羽目に。。。のようなことが何度かあったのでこれからは1年後に呼んでも読み解けるように書こうと思います。&lt;/p&gt;
+&lt;p&gt;せっかく丁寧に書くなら公開したいのでメモ用のブログを作ることにしました（このブログです）。&lt;/p&gt;
+&lt;h2 id=&quot;コストパフォーマンスの高い技術選定&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B3%E3%82%B9%E3%83%88%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E9%AB%98%E3%81%84%E6%8A%80%E8%A1%93%E9%81%B8%E5%AE%9A&quot; aria-label=&quot;コストパフォーマンスの高い技術選定 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;コストパフォーマンスの高い技術選定&lt;/h2&gt;
+&lt;p&gt;ブログどこに作ろうか迷いましたが、GatsbyJSで静的サイトを生成し、GitHubPagesにデプロイすることにしました。何度かWordpressでブログを作ったことがありますが、EC2を1台管理することすら面倒ですし、最小構成でも月500円ぐらいかかるので、、、&lt;/p&gt;
+&lt;p&gt;なので、ブログに求める要件は以下の通り。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ブログを作ることに労力をかけたくない
+&lt;ul&gt;
+&lt;li&gt;サーバー管理はしたくないし、コストもかけたくない&lt;/li&gt;
+&lt;li&gt;そもそもフロントエンドの知識があまりない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;見た目はシンプルでOK
+&lt;ul&gt;
+&lt;li&gt;清潔感があればそれで&lt;/li&gt;
+&lt;li&gt;ただし、コードを載せたりするのでシンタックスハイライトは簡単に使えると嬉しい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;マークダウンで書きたい
+&lt;ul&gt;
+&lt;li&gt;慣れている&lt;/li&gt;
+&lt;li&gt;今後もしプラットフォームが変わっても使い回せる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;試しにサンプルを実行してみたら5分とかからず公開できたので、GatsbyJS+GitHubPagesに決まりました。仕様ユーザーが多くて情報がたくさんあるのもよかったです。&lt;/p&gt;
+&lt;p&gt;ここからは半分作業ログ。&lt;/p&gt;
+&lt;h2 id=&quot;gatsbyjs-のインストール&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#gatsbyjs-%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB&quot; aria-label=&quot;gatsbyjs のインストール permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;GatsbyJS のインストール&lt;/h2&gt;
+&lt;p&gt;gatsbyをインストールして、スターターブログのテンプレートからブログを作成します。&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;blog&lt;/code&gt; の部分はGitHubのリポジトリ名と同じにしました。&lt;/p&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;bash&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$ &lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; -g gatsby-cli
+$ gatsby new blog https://github.com/gatsbyjs/gatsby-starter-blog
+$ &lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; blog&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;githubpagesにデプロイ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#githubpages%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4&quot; aria-label=&quot;githubpagesにデプロイ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;GitHubPagesにデプロイ&lt;/h2&gt;
+&lt;p&gt;GitHubのリモートリポジトリ &lt;code class=&quot;language-text&quot;&gt;blog&lt;/code&gt; (名前は何でも) を作り、 &lt;code class=&quot;language-text&quot;&gt;gh-pages&lt;/code&gt; パッケージをインストールしておきます。&lt;/p&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;bash&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$ &lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; gh-pages --save-dev
+$ &lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; remote &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; origin git@github.com:joe-yama/blog.git  &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;GitHubのユーザーページにしようか、プロジェクトページにしようか迷った挙げ句、プロジェクトページにすることに決定しました。&lt;/p&gt;
+&lt;p&gt;ユーザーページは今後ポートフォリオを作ったときのために残しておきましょう。
+ユーザーページにする場合は &lt;code class=&quot;language-text&quot;&gt;gatsby-config.js&lt;/code&gt; に1行追記が必要っぽいです。&lt;/p&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;gatsby-config.js&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;pathPrefix&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;/blog&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;ブログはGitHubPagesに公開しますが、静的サイトなので公開前にビルドを行う必要があります。
+面倒なのでスクリプトに登録しておきましょう。&lt;/p&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;package.json&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;&quot;scripts&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;&quot;deploy&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;gatsby build --prefix-paths &amp;amp;&amp;amp; gh-pages -d public&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;これで、 &lt;code class=&quot;language-text&quot;&gt;npm run deploy&lt;/code&gt; するだけでビルド→公開まで行える様になりました。&lt;/p&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;bash&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; run deploy&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;5分もかかりません。&lt;/p&gt;
+&lt;h2 id=&quot;gatsby-transformer-remark-のプラグインたち&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#gatsby-transformer-remark-%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%9F%E3%81%A1&quot; aria-label=&quot;gatsby transformer remark のプラグインたち permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;gatsby-transformer-remark のプラグインたち&lt;/h2&gt;
+&lt;p&gt;GatsbyJSにはたくさんのプラグインがあります。特にコードが書かれている記事を読むときは、最低限のシンタックスハイライトがないと（たとえ自分が書いたものを読み返すだけでも）読む気が失せてしまうので、重要です。&lt;/p&gt;
+&lt;p&gt;順番が大事。以下の順番で &lt;code class=&quot;language-text&quot;&gt;gatsby-config.js&lt;/code&gt; に記載しました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;gatsby-remark-autolink-headers&lt;/li&gt;
+&lt;li&gt;gatsby-remark-responsive-iframe&lt;/li&gt;
+&lt;li&gt;gatsby-remark-prismjs-title&lt;/li&gt;
+&lt;li&gt;gatsby-remark-prismjs&lt;/li&gt;
+&lt;li&gt;gatsby-remark-highlight-code&lt;/li&gt;
+&lt;li&gt;gatsby-remark-copy-linked-files&lt;/li&gt;
+&lt;li&gt;gatsby-remark-smartypants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;prismjs-のテーマ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#prismjs-%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E&quot; aria-label=&quot;prismjs のテーマ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;PrismJS のテーマ&lt;/h2&gt;
+
+        &lt;div class=&quot;gatsby-code-title&quot;&gt;
+          &lt;span&gt;gatsby-browser.js&lt;/span&gt;
+        &lt;/div&gt;
+       
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;prismjs/themes/prism-solarizedlight.css&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;ということで、一番最初のポストはブログの作成ログでした。&lt;/p&gt;
+&lt;h2 id=&quot;参考&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%8F%82%E8%80%83&quot; aria-label=&quot;参考 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;参考&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbyjs.com/&quot;&gt;https://www.gatsbyjs.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
